@@ -46,6 +46,7 @@ public class Ej2{
       System.out.print("["+arreglo[i]+"]");
     }
 
+    //Se cierra el objeto Scanner
     entrada.close();
   }
 
