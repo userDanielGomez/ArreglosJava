@@ -4,7 +4,7 @@ public class Ej2{
   
   public static void main(String[] args) {
     // Realizar un programa que contenga un vector cuya longitud sea 
-    // proporcionado por el usuario, despues solicitar al usuario los
+    // proporcionada por el usuario, despues solicitar al usuario los
     // números necesarios para llenar todas las posiciones del vector, es
     // decir, si el usuario solicitó un arreglo de 10 dimensiones, entonces
     // el programa deberá de solicitarle al usuario 10 números, y 
